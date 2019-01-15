@@ -1,0 +1,34 @@
+{
+    "customers":[
+        {
+            "id":"1", 
+            "name": "John Doe", 
+            "email": "jdoe@jmail.com", 
+            "age":33
+        },
+        {
+            "id":"2", 
+            "name": "Jane Doe",
+            "email": "j2doe@jmail.com", 
+            "age":13
+        },
+        {
+            "id":"3", 
+            "name": "Jo Doe", 
+            "email": "j3doe@jmail.com", 
+            "age":43
+        },
+        {
+            "id":"4", 
+            "name": "Janet Doe",
+            "email": "j2doe@jmail.com", 
+            "age":13
+        },
+        {
+            "id":"5", 
+            "name": "Janetia Doe",
+            "email": "j2doe@jmail.com", 
+            "age":13
+        }
+    ]
+}
